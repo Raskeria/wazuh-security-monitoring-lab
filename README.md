@@ -173,3 +173,13 @@ Parolalar, özel anahtarlar, agent kayıt anahtarları ve kurulumun ürettiği k
 
 - [Active Directory Güvenlik Laboratuvarı](https://github.com/Raskeria/active-directory-security-lab)
 - [Windows Log Analyzer](https://github.com/Raskeria/windows-log-analyzer)
+  
+![Aktif agent](01-client01-active.png)
+
+![Başarısız girişler](02-basarisiz-girisler.png)
+
+![Giriş ayrıntıları](03-basarisiz-giris-detay.png)
+
+![Dosya izleme testleri](04-dosya-ekleme-degistirme-silme.png)
+
+![SHA-256 değişimi](05-sha256-degisimi.png)
